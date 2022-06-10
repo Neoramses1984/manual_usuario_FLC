@@ -87,3 +87,41 @@ En el caso de los **Assessment Results**, si utiliza el botón 👁 se abrirá e
 Usando la tecla [F] podrá registrar la ubicación de la falla confirmada para ese estudio de falla específico.
 
 En el caso de los Fault Records, el uso de la tecla 👁 abrirá la falla en el mapa.
+
+
+![logo_prueba](fallas_anteriores.png "Fallas anteriores")
+
+### Proceso de prueba para la detección de fallos
+
+![logo_prueba](diagrama.png "Diagrama de flujo")
+
+## Demostración
+
+### Comprobación de funciones
+Abra la calculadora
+Ejecute el siguiente fallo y compruebe los resultados :
+ID: 97-R1129
+(A) : 273
+(B) : 277
+(C) : 282
+(E) : 19
+
+### Resultados a comparar
+
+![logo_prueba](resultados_comparar.png "Resultados")
+
+### Entrega de prueba en vivo
+
+* Reportar cualquier problema, error o sugerencia.
+
+* Podemos verificar y comparar las diferencias a posteriori entre la ubicación real de fallas y el estudio.
+
+* Todo lo que pueda servir de apoyo a la toma de decisiones de la herramienta, es decir, las condiciones ambientales, el tipo de fallo, etc., intente capturarlo en el registro de fallos.
+
+* Este punto contribuirá a perfeccionar el modelo de probabilidad ampliando el número de tipos de fallos susceptibles de ser cubiertos y/o mejorando la precisión de los resultados.
+
+* Siéntase libre de compartir y recomendar la herramienta incluso dentro de la prueba, podemos añadir más usuarios a petición de los interesados en participar.
+
+
+
+
